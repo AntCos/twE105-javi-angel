@@ -3,11 +3,15 @@
 Se trata de un programa que gestiona los vehículos que hay en un taller y administra el área al que se deben dirigir.
 También es capaz de darnos información sobre los tiempos de reparación y el presupuesto total.
 
+Otro programa que trata soble  el calculo de polinomios de grado N.
+
 ## Integrantes del equipo
 
 - @angelgomezmunoz
 
 - @Javs24
+
+-Antonio Aragon Ros-@AntCos
 
 ## Objetivos del trabajo
 
@@ -17,4 +21,8 @@ También es capaz de darnos información sobre los tiempos de reparación y el p
 
 - Administración de reparaciones.
 
-- Ofrecer información sobre precios
+- Ofrecer información sobre precios.
+
+- Funciones para hacer el metodo de la biseccion.
+
+- Calculo de los polinomios a traves del metodo de la Bisección.
